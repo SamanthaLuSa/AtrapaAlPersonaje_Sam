@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  background: #b20fe8;
+  color: white;
+  font-family: Verdana;
+  text-align: center;
+}
+
+#titulo {
+  font-size: 6vw;
+}
+
+#score {
+  font-size: 5vw;
+}
+
+canvas {
+  display: block;
+  margin: auto;
+}
